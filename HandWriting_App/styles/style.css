@@ -1,0 +1,85 @@
+#whole {
+    /*prevents highlighting text*/
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#instructions {
+    width: 30%;
+    height: 15%;
+    padding: 2px;
+    border-radius: 4px;
+    font-size: 120%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#board {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+#canvas {
+    height: 300px;
+    width: 400px;
+    border: 2px solid #FFACAC;
+    border-radius: 4px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+#board_rslt {
+    opacity: 1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+#resultText {
+    opacity: 0;
+}
+
+#canvas_rslt {
+    opacity: 0;
+    border: 2px solid #FFACAC;
+    border-radius: 4px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+#submitbutton {
+    margin-left: 5px;
+}
+
+.particlehead {
+    background: #000;
+}
+
+#cont {
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 100px;
+    border-radius: 5px;
+}
+
+.backsapce-btn{
+
+
+    width: 32px;
+    height: 32px;
+}
