@@ -1,6 +1,6 @@
 # ML-Project
 
-Handwriting letter detection web site 
+Handwriting letter detection web application
 
-Web site link: https://handwriting-detection.netlify.app/
+Web site link: https://the-english-wizard.netlify.app/
 
